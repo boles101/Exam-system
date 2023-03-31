@@ -1,0 +1,15 @@
+D:\Boles\School\ASP.Net Course\C# Exam\C#_Exam\obj\Debug\net6.0\C#_Exam.csproj.AssemblyReference.cache
+D:\Boles\School\ASP.Net Course\C# Exam\C#_Exam\obj\Debug\net6.0\C#_Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Boles\School\ASP.Net Course\C# Exam\C#_Exam\obj\Debug\net6.0\C#_Exam.AssemblyInfoInputs.cache
+D:\Boles\School\ASP.Net Course\C# Exam\C#_Exam\obj\Debug\net6.0\C#_Exam.AssemblyInfo.cs
+D:\Boles\School\ASP.Net Course\C# Exam\C#_Exam\obj\Debug\net6.0\C#_Exam.csproj.CoreCompileInputs.cache
+D:\Boles\School\ASP.Net Course\C# Exam\C#_Exam\bin\Debug\net6.0\C#_Exam.exe
+D:\Boles\School\ASP.Net Course\C# Exam\C#_Exam\bin\Debug\net6.0\C#_Exam.deps.json
+D:\Boles\School\ASP.Net Course\C# Exam\C#_Exam\bin\Debug\net6.0\C#_Exam.runtimeconfig.json
+D:\Boles\School\ASP.Net Course\C# Exam\C#_Exam\bin\Debug\net6.0\C#_Exam.dll
+D:\Boles\School\ASP.Net Course\C# Exam\C#_Exam\bin\Debug\net6.0\C#_Exam.pdb
+D:\Boles\School\ASP.Net Course\C# Exam\C#_Exam\obj\Debug\net6.0\C#_Exam.dll
+D:\Boles\School\ASP.Net Course\C# Exam\C#_Exam\obj\Debug\net6.0\refint\C#_Exam.dll
+D:\Boles\School\ASP.Net Course\C# Exam\C#_Exam\obj\Debug\net6.0\C#_Exam.pdb
+D:\Boles\School\ASP.Net Course\C# Exam\C#_Exam\obj\Debug\net6.0\C#_Exam.genruntimeconfig.cache
+D:\Boles\School\ASP.Net Course\C# Exam\C#_Exam\obj\Debug\net6.0\ref\C#_Exam.dll
